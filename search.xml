@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>暑期社会实践</title>
+      <link href="/2024/07/05/%E6%9A%91%E6%9C%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5/"/>
+      <url>/2024/07/05/%E6%9A%91%E6%9C%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2024年暑期社会实践：开源赋能，驱动未来"><a href="#2024年暑期社会实践：开源赋能，驱动未来" class="headerlink" title="2024年暑期社会实践：开源赋能，驱动未来"></a>2024年暑期社会实践：开源赋能，驱动未来</h1><p>随着夏日的热情逐渐升温，2024年的暑期社会实践如同一艘即将启航的帆船，满载着我们对知识的渴望、对社会的责任以及对未来的憧憬。这不仅仅是一个逃离书本、享受假期的机会，更是一次深入社会、锻炼自我、实现价值的宝贵经历。今天，我将与大家分享我们团队的2024年暑期社会实践安排，希望能激发更多人的共鸣与参与。</p><hr><h2 id="一-实践主题"><a href="#一-实践主题" class="headerlink" title="一. 实践主题"></a>一. 实践主题</h2><p>本次暑期社会实践，我选择了“开源项目，走近企业？”作为主题。在快速城市化的背景下，乡村面临着前所未有的挑战与机遇。我希望通过自己的努力，为乡村的振兴贡献一份力量，同时探索如何在乡村中有效传播优秀文化，提升村民的文化素养和幸福感。</p><hr><h2 id="二-实践计划安排"><a href="#二-实践计划安排" class="headerlink" title="二. 实践计划安排"></a>二. 实践计划安排</h2><h3 id="1-准备阶段（6月底）"><a href="#1-准备阶段（6月底）" class="headerlink" title="1. 准备阶段（6月底）"></a>1. 准备阶段（6月底）</h3><blockquote><ul><li>组建团队：招募志同道合的伙伴，包括文化传播、农业技术、社会调查等方面的专业人才。</li><li>制定方案：根据乡村实际情况，制定详细的社会实践方案，包括调研内容、文化活动策划、技术支援方案等。</li><li>物资筹备：准备必要的调研工具、教学材料、文化宣传品等。</li></ul></blockquote><h3 id="2-实施阶段（6-28-7-5）"><a href="#2-实施阶段（6-28-7-5）" class="headerlink" title="2. 实施阶段（6.28-7.5）"></a>2. 实施阶段（6.28-7.5）</h3><blockquote><ul><li>6.28：开会</li><li>6.29：前往气象谷</li><li>6.30：休息</li><li>7.1：前往六朝博物馆</li><li>7.2：前往博智安全、中科创达两家企业进行参观</li><li>7.3：前往颐和路数字展示馆</li><li>7.4：前往龙芯中科、南京集成电路基地两家企业进行参观</li><li>7.5：休息</li></ul></blockquote><h3 id="3-总结反思阶段（7月中旬至8月底）"><a href="#3-总结反思阶段（7月中旬至8月底）" class="headerlink" title="3. 总结反思阶段（7月中旬至8月底）"></a>3. 总结反思阶段（7月中旬至8月底）</h3><blockquote><ul><li>数据整理与分析：对调研数据进行整理和分析，形成详细的实践报告。</li><li>成果展示：通过展览、演讲等形式，向学校、社区及社会各界展示实践成果。</li><li>反思总结：组织团队成员进行反思和总结，分享个人心得和收获，为未来的社会实践提供参考和借鉴。</li></ul></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 暑期社会实践 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="/2024/06/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2024/06/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
@@ -24,8 +43,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2024/06/28/hello-world/"/>
-      <url>/2024/06/28/hello-world/</url>
+      <link href="/2024/06/26/hello-world/"/>
+      <url>/2024/06/26/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
